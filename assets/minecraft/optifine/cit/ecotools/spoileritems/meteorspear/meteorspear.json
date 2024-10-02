@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"1": "./items/eldrysword",
+		"2": "./ecotools/spoileritems/meteorspear/meteorspear"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [28, -93, -22],
+			"translation": [1, 15, 2.75],
+			"scale": [2.54, 2.54, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [7, 81, 47],
+			"translation": [0, 13.5, 3],
+			"scale": [2.54, 2.54, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [-87, -92, -73],
+			"translation": [0, 7.75, -3],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [152, 88, -171],
+			"translation": [-0.75, 7, -2.75],
+			"scale": [1.8, 1.8, 0.9]
+		},
+		"ground": {
+			"rotation": [5, 0, 53],
+			"translation": [1, 0.75, 0.75],
+			"scale": [2.54, 2.54, 0.9]
+		}
+	}
+}

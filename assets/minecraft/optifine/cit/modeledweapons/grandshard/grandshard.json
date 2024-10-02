@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"1": "./items/inkaxe",
+		"particle": "./items/inkaxe",
+		"layer0": "./item/iron_axe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -90, 133],
+			"translation": [0, 1, -2],
+			"scale": [2, 2, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 90, -133],
+			"translation": [0, 1, -2],
+			"scale": [2, 2, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [93, -90, 144],
+			"translation": [0, 3, 3],
+			"scale": [1.2, 1.2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-67, 90, 14],
+			"translation": [0, 3, 3],
+			"scale": [1.2, 1.2, 1]
+		},
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"translation": [8, 7.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 50.5, 45],
+			"translation": [0, 0, -40.25],
+			"scale": [4, 4, 4]
+		}
+	}
+}

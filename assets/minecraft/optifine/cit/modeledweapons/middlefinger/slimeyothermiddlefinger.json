@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "./slimeleftmiddlefinger",
+		"particle": "./slimeleftmiddlefinger"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 8],
+			"to": [8, 3, 9],
+			"faces": {
+				"north": {"uv": [1, 1, 2, 4], "texture": "#0"},
+				"east": {"uv": [0, 1, 1, 4], "texture": "#0"},
+				"south": {"uv": [3, 1, 4, 4], "texture": "#0"},
+				"west": {"uv": [2, 1, 3, 4], "texture": "#0"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [3, 0, 2, 1], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0.5, 7.4, 0],
+			"scale": [1.05, 1.05, 1.05]
+		},
+		"thirdperson_lefthand": {
+			"translation": [-0.5, 7, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 8.75, 2]
+		},
+		"firstperson_lefthand": {
+			"translation": [0.25, 14, -1.25],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [161.63, 17.68, -132.39],
+			"translation": [16, 19.25, 0],
+			"scale": [4, 4, 4]
+		}
+	}
+}

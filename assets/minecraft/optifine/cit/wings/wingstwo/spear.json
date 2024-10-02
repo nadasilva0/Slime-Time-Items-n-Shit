@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"1": "items/spear",
+		"layer0": "item/golden_sword",
+		"particle": "items/golden_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 4, 0.5],
+			"scale": [2, 2, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 4, 0.5],
+			"scale": [2, 2, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-166, -70, -35],
+			"translation": [7, 1.25, -5.75],
+			"scale": [2, 2, 1.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-166, -70, -125],
+			"translation": [7, 1.25, -5.75],
+			"scale": [2, 2, 1.5]
+		}
+	}
+}

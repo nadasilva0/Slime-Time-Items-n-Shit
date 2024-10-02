@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"1": "items/snark",
+		"layer0": "item/firework_rocket",
+		"particle": "item/firework_rocket"
+	},
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -25, 0],
+			"translation": [6, 3, -13],
+			"scale": [1.4, 1.4, 1.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [67, -90, 14],
+			"translation": [0, 3, 1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_righthand": {
+			"rotation": [-90, 90, 133],
+			"translation": [0, 7, 1],
+			"scale": [1, 1, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, -90, -133],
+			"translation": [0, 7, 1],
+			"scale": [1, 1, 1]
+		}
+	}
+}

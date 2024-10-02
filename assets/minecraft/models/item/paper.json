@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/choo_rift"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/choo_waypoint"}
+
+	]
+
+ 
+}

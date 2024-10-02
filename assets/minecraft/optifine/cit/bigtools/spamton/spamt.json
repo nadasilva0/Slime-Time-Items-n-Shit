@@ -1,0 +1,35 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"1": "items/warpedhammer",
+		"layer0": "item/netherite_axe",
+		"particle": "items/netherite_axe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [55, 270, 55],
+			"translation": [0, 30, 5],
+			"scale": [5, 5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [55, 270, -55],
+			"translation": [0, 30, 5],
+			"scale": [5, 5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, -90, 180],
+			"translation": [7, 4.25, -5.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 90, 180],
+			"translation": [7, 4.25, -5.75],
+			"scale": [5, 5, 1]
+		},		
+			"gui": {
+			"rotation": [0, 0, 0],
+			"translation": [6.25, 22.45, 0],
+			"scale": [4, 4, 1]
+		}
+	}
+}

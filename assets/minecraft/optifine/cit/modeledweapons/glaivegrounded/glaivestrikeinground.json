@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"1": "./items/inkaxe",
+		"particle": "./items/inkaxe",
+		"layer0": "./item/netherite_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -90, 133],
+			"translation": [-6, 39, 20],
+			"scale": [4, 4, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [88, 90, -133],
+			"translation": [-6, 36.25, 14.75],
+			"scale": [4, 4, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [93, -90, 144],
+			"translation": [0, 6, 3],
+			"scale": [1.2, 1.2, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-67, 90, 14],
+			"translation": [0, 6, 3],
+			"scale": [1.2, 1.2, 1]
+		},
+		"ground": {
+			"translation": [0, 8, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"rotation": [90, -90, -135],
+			"translation": [0, -3, 45],
+			"scale": [4, 4, 2]
+		}
+	}
+}

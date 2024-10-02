@@ -1,0 +1,20 @@
+{
+  "instrument.minecraft.ponder_goat_horn": "Meteorology",
+  "instrument.minecraft.sing_goat_horn": "Rebirth",
+  "instrument.minecraft.seek_goat_horn": "Unmasked",
+  "instrument.minecraft.feel_goat_horn": "City of Sinners",
+  "instrument.minecraft.admire_goat_horn": "Meat Music",
+  "instrument.minecraft.call_goat_horn": "Buddy Holly",
+  "instrument.minecraft.yearn_goat_horn": "The Lick",
+  "instrument.minecraft.dream_goat_horn": "Fart with reverb",
+  "death.attack.gunshot": "%1$s was shot.",
+  "death.attack.gunshot.player": "%1$s was shot by %2$s.",
+  "death.attack.dryout": "%1$s was touched inappropriately",
+  "death.attack.dryout.player": "%1$s was touched inappropriately by %2$s.",
+  "death.attack.dryout.item": "%1$s was touched inappropriately by %2$s.",
+  "death.attack.dragonBreath": "%1$s was looked at.",
+  "death.attack.dragonBreath.player": "%1$s was looked at by %2$s.",
+  "death.attack.dragonBreath.item": "%1$s was looked at by %2$s.",
+  "block.minecraft.jungle_sign": "Iron Sign",
+  "block.minecraft.jungle_hanging_sign": "Iron Hanging Sign"
+}

@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "vex2.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0],
+			"boxes": [
+				{"coordinates": [-2.5, 6, -2.5, 4, 4, 4], "textureOffset": [16, 24], "sizeAdd": 1},
+				{"coordinates": [-2.5, 6, -2.5, 4, 4, 4], "textureOffset": [0, 24], "sizeAdd": 1.2},
+				{"coordinates": [1.5, 6, 2, 0, 5, 8], "textureOffset": [16, 11]},
+				{"coordinates": [-0.5, 5, 2, 0, 5, 8], "textureOffset": [16, 11]},
+				{"coordinates": [-2.5, 6, 2, 0, 5, 8], "textureOffset": [16, 11]},
+				{"coordinates": [-0.5, 8, 2, 0, 5, 8], "textureOffset": [16, 11]},
+				{"coordinates": [-2.5, 9, 2, 0, 5, 8], "textureOffset": [16, 11]},
+				{"coordinates": [1.5, 9, 2, 0, 5, 8], "textureOffset": [16, 11]}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -6, 0]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [-1.75, -5.5, 0],
+			"boxes": [
+				{"coordinates": [0, 1, 0, 2, 4, 0], "textureOffset": [20, 12]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [1.75, -5.5, 0],
+			"boxes": [
+				{"coordinates": [-3, 1, 0, 2, 4, 0], "textureOffset": [8, 12]}
+			]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [0.5, -6, -1]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-0.5, -6, -1]
+		}
+	]
+}

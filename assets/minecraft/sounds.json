@@ -1,0 +1,1359 @@
+{
+    "custom.laser": {
+        "subtitle": "Laser Firing",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/laser",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.falloutlaser": {
+        "subtitle": "Laser Firing",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/falloutlaser",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.vatsactive": {
+        "subtitle": "V.A.T.S Activates",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/vatsactive",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.vatsselect": {
+        "subtitle": "V.A.T.S Target Switch",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/vatsselect",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.vatsdeactivate": {
+        "subtitle": "V.A.T.S Deactivates",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/vatsdeactivate",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rootprep": {
+        "subtitle": "Root Charge",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rootprep",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rooterupt": {
+        "subtitle": "Roots Erupt",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rooterupt",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.stabself": {
+        "subtitle": "Stabs Self",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/stabself",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gknifeshoot": {
+        "subtitle": "Knives Fire",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gknifeshoot",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gknifeprepare": {
+        "subtitle": "Knife Warns",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gknifeprepare",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.trinitybigshot": {
+        "subtitle": "Triple Laser",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/trinitybigshot",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.trinityminishot": {
+        "subtitle": "Trinity Laser",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/trinityminishot",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.portalgun": {
+        "subtitle": "Portal Opens",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/portalgun",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.splooge": {
+        "subtitle": "Cum",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/splooge",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.slap": {
+        "subtitle": "Fish hit!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/slap1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/slap2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.critslap": {
+        "subtitle": "FISH KILL!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/critslap1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/critslap2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.stairs": {
+        "subtitle": "Mari fucking dies",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/ayodapizzahere",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.piano": {
+        "subtitle": "Piano slams",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/pianoslam",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 28,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.turret": {
+        "subtitle": "Turret Fires",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/turret",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/turret2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/turret3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.erupt": {
+        "subtitle": "Cosmic Eruption",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/erupt1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/erupt2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/erupt3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/erupt4",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/erupt5",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.ghostexplode": {
+        "subtitle": "Purgatory Ghost Explodes",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/demon_hit1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/demon_hit2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/demon_hit3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.ocharge": {
+        "subtitle": "Dr. O Charges",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/demoncharge1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/demoncharge2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/demoncharge3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.eruptlarge": {
+        "subtitle": "Giant Cosmic Eruption",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/eruptlarge",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.spinattack": {
+        "subtitle": "Spin Attack",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/spin",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.eruptstart": {
+        "subtitle": "Cosmic Eruption",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/eruptstart",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.zakspell": {
+        "subtitle": "Zakveyl Casts Spell",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/zakspell",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.orbdeath": {
+        "subtitle": "The Orb dies",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/dies",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.oliviastabbed": {
+        "subtitle": "Olivia gets extracted",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/oliviastabbed",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.zombiestabbed": {
+        "subtitle": "Zombie gets extracted",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/zombiestabbed",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.caber": {
+        "subtitle": "Demoman Screams",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/democaber1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/democaber2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.choospell": {
+        "subtitle": "Choo Casts Spell",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/choospell",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.demon_hit07": {
+        "subtitle": "demon_hit07",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/demon_hit07",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 267,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.tonguelash": {
+        "subtitle": "Babel's Tongue Lashes",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/tonguelash",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.tongueimpact": {
+        "subtitle": "Babel's Tongue Impacts",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/tongueimpact",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.lightdrone": {
+        "subtitle": "Light Ball Drones",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/drone",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 6,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.bigiron": {
+        "subtitle": "Big Iron Fires",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/bigiron1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/bigiron2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/bigiron3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/bigiron4",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.bigironreload": {
+        "subtitle": "Big Iron Reloads",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/bigironreload",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.sniperreload": {
+        "subtitle": "Sniper Rifle Reloads",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/sniperreload",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.pistolreload": {
+        "subtitle": "Pistol Reloads",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/pistolreload",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.shotgunreload": {
+        "subtitle": "Shotgun Reloads",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/shotgunreload",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.riflereload": {
+        "subtitle": "Rifle Reloads",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/riflereload",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.snipershot": {
+        "subtitle": "Sniper Shoots",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/snipershot",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.shotgunshot": {
+        "subtitle": "Shotgun Fires",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/shotgunshot",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.sniperdistant": {
+        "subtitle": "Distant Sniper Shot",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/sniperdistant",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.riftuse": {
+        "subtitle": "Rift Gun Used",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/riftopen",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 6,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.riftopen": {
+        "subtitle": "Rift Opens",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/riftcrack",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.riftsky": {
+        "subtitle": "Sky Rift Opens",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/riftsky",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 260,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.rift": {
+        "subtitle": "Star Rift Opens",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rift",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+	"custom.lightballcast": {
+        "subtitle": "Light Ball Cast",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/lightballcast",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.juniperspellcard": {
+        "subtitle": "Juniper Casts Spell",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/junemagic",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.fartreverb": {
+        "subtitle": "PHHRRHBRBTBBT",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/fartreverb",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.bananasblow": {
+        "subtitle": "bananasblow",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/bananasblow",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 50,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.hit_sword": {
+        "subtitle": "Slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/hit_sword",
+                "volume": 0.6,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.ice_breath_loop": {
+        "subtitle": "Ice Breath",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/ice_breath_loop",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.deep_freeze": {
+        "subtitle": "Deep Freeze",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/deep_freeze",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.skate": {
+        "subtitle": "Player Skating",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/skate_1",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/skate_2",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            },
+            {
+                "name": "custom/skate_3",
+                "volume": 1,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.floor_portals_open": {
+        "subtitle": "Sculk Portals Open",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/floor_portals_open",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.floor_glaive_strike": {
+        "subtitle": "Glaives Strike",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/floor_glaive_strike",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.wall_portals_open": {
+        "subtitle": "Sculk Portals Open",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/wall_portals_open",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.wall_glaive_strike": {
+        "subtitle": "Glaives Strike",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/wall_glaive_strike",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gigant_slash_1": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gigant_slash_1",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gigant_slash_2": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gigant_slash_2",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gigant_slash_3": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gigant_slash_3",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.gigant_slash_4": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/gigant_slash_4",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rageslash_1": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rageslash_1",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rageslash_2": {
+        "subtitle": "Giant slash",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rageslash_2",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rageslash_3": {
+        "subtitle": "Earth-Rending Cleaver of Wrath",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rageslash_3",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rageslash_chargeup": {
+        "subtitle": "You are going to go missing soon.",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/goingmissing",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.rageslash_explode": {
+        "subtitle": "Earth-Rending Explosion of Wrath",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/rageslash_explode",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.sculk_counter_use": {
+        "subtitle": "Counter Starts",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/littlemac_counter_use",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.marksman_shoot": {
+        "subtitle": "Marksman Shoot",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/shoot1c3",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.ricoshot": {
+        "subtitle": "Ricoshot!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/ricoshot",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.coinflip": {
+        "subtitle": "Coin Flip",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/coinflip",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.railgun_shoot": {
+        "subtitle": "Railgun Fires",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/railcannonfire5",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.railgun_charge_full": {
+        "subtitle": "Railgun Fully Charges",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/railcannonfullclickandcharge",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.railgun_pip": {
+        "subtitle": "Railgun Charges",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/railcannonpipclick",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "custom.crit": {
+        "subtitle": "Critical Hit!",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/crit",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
+    "music_disc.meteorology": {
+		"sounds": [
+			{
+				"name": "records/meteorology",
+                "attenuation_distance": 16
+			}
+		]
+	},
+    "music_disc.rebirth": {
+		"sounds": [
+			{
+				"name": "records/rebirth",
+                "attenuation_distance": 16
+			}
+		]
+	},
+    "music_disc.meatmusic": {
+		"sounds": [
+			{
+				"name": "records/meatmusic",
+                "attenuation_distance": 16
+			}
+		]
+	},
+    "music_disc.unmasked": {
+		"sounds": [
+			{
+				"name": "records/unmasked",
+                "attenuation_distance": 16
+			}
+		]
+	},
+    "music_disc.cityofsinners": {
+		"sounds": [
+			{
+				"name": "records/cityofsinners",
+                "attenuation_distance": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/music_disc_13"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/music_disc_meteorology"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/music_disc_unmasked"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/music_disc_rebirth"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/music_disc_cityofsinners"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/music_disc_meatmusic"}
+	]
+
+ 
+}

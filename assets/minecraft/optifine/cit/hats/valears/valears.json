@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "./valears",
+		"particle": "./valears"
+	},
+	"elements": [
+		{
+			"from": [11, 1, 8],
+			"to": [15, 4, 8],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [11, 1, 8]},
+			"faces": {
+				"north": {"uv": [8.5, 3, 9.5, 3.75], "texture": "#0"},
+				"east": {"uv": [8.5, 3, 8.5, 3.75], "texture": "#0"},
+				"south": {"uv": [12.5, 3, 13.5, 3.75], "texture": "#0"},
+				"west": {"uv": [9.5, 3, 9.5, 3.75], "texture": "#0"},
+				"up": {"uv": [9.5, 3, 8.5, 3], "texture": "#0"},
+				"down": {"uv": [10.5, 3, 9.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 1, 8],
+			"to": [5, 4, 8],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [5, 1, 8]},
+			"faces": {
+				"north": {"uv": [12.5, 3, 13.5, 3.75], "texture": "#0"},
+				"east": {"uv": [8.5, 3, 8.5, 3.75], "texture": "#0"},
+				"south": {"uv": [8.5, 3, 9.5, 3.75], "texture": "#0"},
+				"west": {"uv": [9.5, 3, 9.5, 3.75], "texture": "#0"},
+				"up": {"uv": [9.5, 3, 8.5, 3], "texture": "#0"},
+				"down": {"uv": [10.5, 3, 9.5, 3], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"translation": [0, 6.5, 0]
+		},
+		"head": {
+			"translation": [0, 6.5, 0],
+			"scale": [1.61, 1.61, 1.61]
+		}
+	}
+}
