@@ -1,0 +1,27 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"1": "items/babelbow",
+		"layer0": "item/crossbow",
+		"particle": "items/babelbow"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -1, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, -2, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 0, -9],
+			"translation": [1.25, 2, 0],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 0, 0],
+			"translation": [-9.1, 4, 5]
+		}
+	}
+}

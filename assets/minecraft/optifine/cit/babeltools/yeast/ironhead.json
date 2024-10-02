@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "ultrasword.json",
+	"textures": {
+		"0": "./ironhead",
+		"particle": "./ironhead"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 0],
+			"to": [8, 32, 32],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 16], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [50, 0, 0],
+			"translation": [0, 15.75, -10.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [50, 0, 0],
+			"translation": [0, 15.75, -10.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [36, 0, 0],
+			"translation": [1.75, 15, -14]
+		},
+		"firstperson_lefthand": {
+			"rotation": [36, 0, 0],
+			"translation": [-1.75, 15, -14]
+		},
+		"ground": {
+			"translation": [0, 4.75, -11]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [5.75, -3.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [12, -1, 0],
+			"translation": [0, 4, -14.75],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"translation": [-6.75, -4.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	}
+}

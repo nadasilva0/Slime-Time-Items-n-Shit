@@ -1,0 +1,30 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"1": "items/twistbow_standby",
+		"layer0": "item/crossbow",
+		"particle": "items/twistbow_standby"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 0, -47],
+			"translation": [0, -0.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 0, 47],
+			"translation": [0, -0.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-90, 0, -55],
+			"translation": [1.5, 4, -1],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-90, 0, 45.5],
+			"translation": [-8.75, 4, 1],
+			"scale": [2, 2, 2]
+		}
+	}
+}
