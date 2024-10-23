@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/texture",
-		"1": "block/texture",
-		"particle": "block/texture"
+		"0": "./eye",
+		"1": "./lightblade",
+		"particle": "./lightblade"
 	},
 	"elements": [
 		{
@@ -377,8 +377,27 @@
 			"rotation": [-180, -88, -1],
 			"translation": [-1.25, 17, 1.25]
 		},
+		"firstperson_righthand": {
+			"rotation": [153, 57, 0],
+			"translation": [0, 11.25, -3.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [167, 69, -11],
+			"translation": [2.75, 8.75, -3.5]
+		},
 		"ground": {
-			"translation": [0, 9, 0]
+			"rotation": [105, 0, 0],
+			"translation": [0, 0.75, -7.25]
+		},
+		"gui": {
+			"rotation": [0, 0, 137],
+			"translation": [3, 4.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -14],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [
