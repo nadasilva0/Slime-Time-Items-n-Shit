@@ -23,7 +23,9 @@
 		{ "predicate": {"custom_model_data":16}, "model": "item/slimeds"},
 		{ "predicate": {"custom_model_data":17}, "model": "item/wallds"},
 		{ "predicate": {"custom_model_data":18}, "model": "item/clementine"},
-		{ "predicate": {"custom_model_data":19}, "model": "item/peahat"}
+		{ "predicate": {"custom_model_data":19}, "model": "item/peahat"},
+		{ "predicate": {"custom_model_data":20}, "model": "item/cultist"},
+
 
 
 	]
