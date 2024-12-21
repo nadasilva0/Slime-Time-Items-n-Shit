@@ -1,0 +1,85 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:using_item",
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_2"
+          },
+          "threshold": 0.1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_1"
+          },
+          "threshold": 0.2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging"
+          },
+          "threshold": 0.3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_2"
+          },
+          "threshold": 0.4
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_1"
+          },
+          "threshold": 0.5
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging"
+          },
+          "threshold": 0.6
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_2"
+          },
+          "threshold": 0.7
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging_1"
+          },
+          "threshold": 0.8
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "slimetime:item/taucannon_charging"
+          },
+          "threshold": 0.9
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "slimetime:item/taucannon_charging_3"
+      },
+      "period": 10,
+      "property": "minecraft:use_cycle",
+      "scale": 0.1
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "slimetime:item/taucannon"
+    }
+  }
+}
