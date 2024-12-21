@@ -1371,6 +1371,21 @@
             }
         ]
     },
+    "custom.gaussfire2": {
+        "subtitle": "Tau Cannon Firing",
+        "replace": false,
+        "sounds": [
+            {
+                "name": "custom/tau_single01",
+                "volume": 0.7,
+                "weight": 1,
+                "pitch": 1,
+                "attenuation_distance": 16,
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
     "custom.gausscharge": {
         "subtitle": "Tau Cannon Charging",
         "replace": false,
